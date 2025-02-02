@@ -10,17 +10,6 @@ This project is a quiz application where users can take a quiz on different topi
 - Responsive Design**: The app is responsive and works on both desktop and mobile devices.
 - Real-time Updates**: Displays loading status while fetching questions, and shows errors if the API call fails.
 
-## Screenshots
-
-![Quiz App Screenshot](./screenshots/screenshot1.png)
-
-*(Include your own screenshots showing the app UI here.)*
-
-## Video Walkthrough
-
-[Watch the video walkthrough of the app](./screenshots/walkthrough.mp4)
-
-*(You can include a link to your video file or host it elsewhere if required.)*
 
 Setup Instructions
 
