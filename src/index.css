@@ -1,0 +1,63 @@
+
+body {
+  background-color: #f8f9fa;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+
+/* Quiz Container */
+.quiz-container {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Question Card */
+.question-card {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+/* Option Buttons */
+.option-btn {
+  width: 100%;
+  text-align: left;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  transition: background 0.3s ease-in-out;
+}
+
+.option-btn:hover {
+  background-color: #17a2b8;
+  color: white;
+}
+
+/* Start Button */
+.start-btn {
+  font-size: 18px;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+
+/* Result Section */
+.results-container {
+  background: #e3f2fd;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .quiz-container {
+    width: 90%;
+  }
+}
