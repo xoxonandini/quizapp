@@ -7,7 +7,7 @@ This project is a quiz application where users can take a quiz on different topi
  Features
 - Dynamic Questions**: Questions are fetched from an API.
 - Interactive UI**: Users can start the quiz, answer questions, and view their score.
-- Responsive Design**: The app is responsive and works on both desktop and mobile devices.
+- Responsive Design**: The app is responsive and works on desktop.
 - Real-time Updates**: Displays loading status while fetching questions, and shows errors if the API call fails.
 
 
